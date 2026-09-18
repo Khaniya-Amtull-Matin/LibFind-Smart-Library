@@ -1,0 +1,6 @@
+{
+  "name": "LibFind Smart Library App",
+  "description": "Smart campus library catalog and precise indoor stacks wayfinding with real-time book availability, shelf coordinates, and digital library pass.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
